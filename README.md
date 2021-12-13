@@ -9,3 +9,7 @@ python-tesseract
 pip install opencv-contrib-python
 ````
 
+## install tesseract
+````
+https://github.com/UB-Mannheim/tesseract/wiki
+````
